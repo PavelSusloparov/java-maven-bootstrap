@@ -1,2 +1,1 @@
-# tax-jar-client
-tax-jar-client
+# java-maven-bootstrap
