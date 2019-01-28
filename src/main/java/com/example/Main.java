@@ -1,4 +1,4 @@
-package com.taxjarclient;
+package com.example;
 
 import java.io.File;
 import java.io.IOException;

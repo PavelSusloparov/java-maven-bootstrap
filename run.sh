@@ -2,4 +2,4 @@
 
 mvn package
 mvn exec:java
-#java -cp target/tax-jar-client-1.0-SNAPSHOT.jar com.taxjarclient.Main
+#java -cp target/java-maven-bootstrap-1.0-SNAPSHOT.jar com.example.Main
